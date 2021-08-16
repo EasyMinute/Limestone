@@ -1,0 +1,36 @@
+2021-07-28T09:18:11+00:00 CRITICAL Uncaught Error: Call to a member function get_formatted_name() on array in /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/template-parts/parts/tiles.php:24
+Stack trace:
+#0 /Applications/MAMP/htdocs/limestone/wp-includes/template.php(772): require()
+#1 /Applications/MAMP/htdocs/limestone/wp-includes/template.php(716): load_template('/Applications/M...', false, Array)
+#2 /Applications/MAMP/htdocs/limestone/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/front-page.php(29): get_template_part('/template-parts...')
+#4 /Applications/MAMP/htdocs/limestone/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/limestone/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/limestone/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/template-parts/parts/tiles.php on line 24
+
+2021-07-28T09:30:28+00:00 CRITICAL Uncaught Error: Call to a member function get_variation_attributes() on array in /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/template-parts/parts/tiles.php:23
+Stack trace:
+#0 /Applications/MAMP/htdocs/limestone/wp-includes/template.php(772): require()
+#1 /Applications/MAMP/htdocs/limestone/wp-includes/template.php(716): load_template('/Applications/M...', false, Array)
+#2 /Applications/MAMP/htdocs/limestone/wp-includes/general-template.php(204): locate_template(Array, true, false, Array)
+#3 /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/front-page.php(29): get_template_part('/template-parts...')
+#4 /Applications/MAMP/htdocs/limestone/wp-includes/template-loader.php(106): include('/Applications/M...')
+#5 /Applications/MAMP/htdocs/limestone/wp-blog-header.php(19): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/limestone/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown in /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/template-parts/parts/tiles.php on line 23
+
+2021-07-28T10:20:55+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/template-parts/parts/tiles.php on line 47
+
+2021-07-28T15:38:11+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/template-parts/parts/where_buy.php on line 9
+
+2021-07-28T15:38:13+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/template-parts/parts/where_buy.php on line 9
+
+2021-07-28T15:38:28+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/template-parts/parts/where_buy.php on line 9
+
+2021-07-28T15:38:29+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/template-parts/parts/where_buy.php on line 9
+
+2021-07-28T15:39:09+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/template-parts/parts/where_buy.php on line 9
+

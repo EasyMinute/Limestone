@@ -1,0 +1,24 @@
+2021-07-30T11:05:07+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/functions-parts/woo_stuff.php on line 8 and at least 2 expected in /Applications/MAMP/htdocs/limestone/wp-includes/plugin.php:561
+Stack trace:
+#0 /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/functions-parts/woo_stuff.php(8): remove_action('woocommerce_aft...')
+#1 /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/functions.php(40): require('/Applications/M...')
+#2 /Applications/MAMP/htdocs/limestone/wp-settings.php(546): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/limestone/wp-config.php(90): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/limestone/wp-load.php(50): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/limestone/wp-blog-header.php(13): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/limestone/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown у /Applications/MAMP/htdocs/limestone/wp-includes/plugin.php доступно 561
+
+2021-07-30T11:06:50+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function remove_action(), 1 passed in /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/functions-parts/woo_stuff.php on line 8 and at least 2 expected in /Applications/MAMP/htdocs/limestone/wp-includes/plugin.php:561
+Stack trace:
+#0 /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/functions-parts/woo_stuff.php(8): remove_action('woocommerce_tem...')
+#1 /Applications/MAMP/htdocs/limestone/wp-content/themes/proacto/functions.php(40): require('/Applications/M...')
+#2 /Applications/MAMP/htdocs/limestone/wp-settings.php(546): include('/Applications/M...')
+#3 /Applications/MAMP/htdocs/limestone/wp-config.php(90): require_once('/Applications/M...')
+#4 /Applications/MAMP/htdocs/limestone/wp-load.php(50): require_once('/Applications/M...')
+#5 /Applications/MAMP/htdocs/limestone/wp-blog-header.php(13): require_once('/Applications/M...')
+#6 /Applications/MAMP/htdocs/limestone/index.php(17): require('/Applications/M...')
+#7 {main}
+  thrown у /Applications/MAMP/htdocs/limestone/wp-includes/plugin.php доступно 561
+
